@@ -16,5 +16,5 @@
 16-Cambio a rama Main.
 17-git pull
 18-añado capturas de pantalla en manuals
-19- push en la rama main.
+19- commit y push en la rama main.
     --FIN--
